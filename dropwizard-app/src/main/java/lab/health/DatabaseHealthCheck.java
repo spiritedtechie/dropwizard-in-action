@@ -1,4 +1,4 @@
-package lab;
+package lab.health;
 
 import com.codahale.metrics.health.HealthCheck;
 

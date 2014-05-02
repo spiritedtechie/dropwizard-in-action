@@ -1,5 +1,7 @@
 package lab;
 
+import lab.health.DatabaseHealthCheck;
+import lab.resources.CustomerResource;
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
