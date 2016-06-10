@@ -11,7 +11,9 @@ Instructions
 
 2) Use the service:
 
-    HTTP GET on http://localhost:8080/customer/1 using a HTTP client.
+HTTP GET on http://localhost:8080/customer/1 using a HTTP client.
+
+    curl http://localhost:8080/customer/1
 
 3) Check out the operational metrics
 
