@@ -1,4 +1,4 @@
-package lab.api;
+package lab.model;
 
 import org.hibernate.validator.constraints.Length;
 
