@@ -20,6 +20,7 @@ Instructions
 HTTP GET on http://localhost:8080/customer/1 using a HTTP client.
 
     curl http://localhost:8080/customer/1
+    curl http://localhost:8080/customer/999
 
 3) Check out the operational metrics
 
