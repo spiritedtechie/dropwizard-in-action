@@ -12,16 +12,17 @@ Dropwizard is productive and simple to use. It really facilitates the efficient 
 Instructions
 ------------
 1) Start the service: 
-
-    gradle run
-
+```
+gradle run
+```
 2) Use the service:
 
 HTTP GET on http://localhost:8080/customer/1 using a HTTP client.
-
-    curl http://localhost:8080/customer/1
-    curl http://localhost:8080/customer/999
-
+```
+curl http://localhost:8080/customer/1
+curl http://localhost:8080/customer/999
+```
 3) Check out the operational metrics
-
-    http://localhost:8081/
+```
+http://localhost:8081/
+```
